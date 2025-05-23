@@ -638,8 +638,8 @@ section {
     }
 
     .timeline-date {
-        left: 40px;
-        transform: translateY(-100%);
+        left: 10px;
+        transform: translateY(-900%);
     }
 
     .cta-buttons {
